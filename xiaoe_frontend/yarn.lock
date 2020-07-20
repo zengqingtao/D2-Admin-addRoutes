@@ -675,10 +675,10 @@
     exec-sh "^0.3.2"
     minimist "^1.2.0"
 
-"@d2-admin/filters-dayjs@^1.0.3":
-  version "1.0.3"
-  resolved "https://registry.npm.taobao.org/@d2-admin/filters-dayjs/download/@d2-admin/filters-dayjs-1.0.3.tgz#87647f8d6864d20e12e14277fc96c7746263a341"
-  integrity sha1-h2R/jWhk0g4S4UJ3/JbHdGJjo0E=
+"@d2-admin/filters-dayjs@^1.0.4":
+  version "1.0.4"
+  resolved "https://registry.yarnpkg.com/@d2-admin/filters-dayjs/-/filters-dayjs-1.0.4.tgz#53699a560ddc4557a4a735a6d35e488ec79b58d6"
+  integrity sha512-Su1n3HFk9u9cSugDl4UKyI8tIyv7OXHTj6BI6RdmDzwWTkqiX+mXtXa1MSeihCRR+W1JvnhoqEA/bBKoWdtHsg==
   dependencies:
     core-js "^2.6.5"
     dayjs "^1.8.12"
@@ -6374,6 +6374,11 @@ js-base64@^2.1.9:
   resolved "https://registry.npm.taobao.org/js-base64/download/js-base64-2.5.1.tgz#1efa39ef2c5f7980bb1784ade4a8af2de3291121"
   integrity sha1-Hvo57yxfeYC7F4St5KivLeMpESE=
 
+js-base64@^2.5.1:
+  version "2.6.3"
+  resolved "https://registry.yarnpkg.com/js-base64/-/js-base64-2.6.3.tgz#7afdb9b57aa7717e15d370b66e8f36a9cb835dc3"
+  integrity sha512-fiUvdfCaAXoQTHdKMgTvg6IkecXDcVz6V5rlftUTclF9IKBjMizvSdQaCl/z/6TApDeby5NL+axYou3i0mu1Pg==
+
 js-beautify@^1.6.12, js-beautify@^1.6.14:
   version "1.10.0"
   resolved "https://registry.npm.taobao.org/js-beautify/download/js-beautify-1.10.0.tgz?cache=0&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Fjs-beautify%2Fdownload%2Fjs-beautify-1.10.0.tgz#9753a13c858d96828658cd18ae3ca0e5783ea672"
@@ -6773,10 +6778,10 @@ lodash.uniq@^4.5.0:
   resolved "https://registry.npm.taobao.org/lodash.uniq/download/lodash.uniq-4.5.0.tgz#d0225373aeb652adc1bc82e4945339a842754773"
   integrity sha1-0CJTc662Uq3BvILklFM5qEJ1R3M=
 
-lodash@4, lodash@4.x, lodash@^4.17.10, lodash@^4.17.11, lodash@^4.17.3, lodash@^4.17.4, lodash@^4.17.5, lodash@^4.3.0:
-  version "4.17.11"
-  resolved "https://registry.npm.taobao.org/lodash/download/lodash-4.17.11.tgz#b39ea6229ef607ecd89e2c8df12536891cac9b8d"
-  integrity sha1-s56mIp72B+zYniyN8SU2iRysm40=
+lodash@4, lodash@4.x, lodash@^4.17.10, lodash@^4.17.11, lodash@^4.17.19, lodash@^4.17.3, lodash@^4.17.4, lodash@^4.17.5, lodash@^4.3.0:
+  version "4.17.19"
+  resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.19.tgz#e48ddedbe30b3321783c5b4301fbd353bc1e4a4b"
+  integrity sha512-JNvd8XER9GQX0v2qJgsaN/mzFCNA5BRe/j8JN9d+tWyGLSodKQHKFicdwNYzWwI3wjRnaKPsGj1XkBjx/F96DQ==
 
 log-symbols@^2.2.0:
   version "2.2.0"
