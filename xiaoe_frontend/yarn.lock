@@ -675,10 +675,10 @@
     exec-sh "^0.3.2"
     minimist "^1.2.0"
 
-"@d2-admin/filters-dayjs@^1.0.3":
-  version "1.0.3"
-  resolved "https://registry.npm.taobao.org/@d2-admin/filters-dayjs/download/@d2-admin/filters-dayjs-1.0.3.tgz#87647f8d6864d20e12e14277fc96c7746263a341"
-  integrity sha1-h2R/jWhk0g4S4UJ3/JbHdGJjo0E=
+"@d2-admin/filters-dayjs@^1.0.4":
+  version "1.0.4"
+  resolved "https://registry.yarnpkg.com/@d2-admin/filters-dayjs/-/filters-dayjs-1.0.4.tgz#53699a560ddc4557a4a735a6d35e488ec79b58d6"
+  integrity sha512-Su1n3HFk9u9cSugDl4UKyI8tIyv7OXHTj6BI6RdmDzwWTkqiX+mXtXa1MSeihCRR+W1JvnhoqEA/bBKoWdtHsg==
   dependencies:
     core-js "^2.6.5"
     dayjs "^1.8.12"
@@ -5101,7 +5101,12 @@ hex-color-regex@^1.1.0:
   resolved "https://registry.npm.taobao.org/hex-color-regex/download/hex-color-regex-1.1.0.tgz#4c06fccb4602fe2602b3c93df82d7e7dbf1a8a8e"
   integrity sha1-TAb8y0YC/iYCs8k9+C1+fb8aio4=
 
-highlight.js@^9.15.8, highlight.js@^9.6.0:
+highlight.js@^10.4.1:
+  version "10.4.1"
+  resolved "https://registry.yarnpkg.com/highlight.js/-/highlight.js-10.4.1.tgz#d48fbcf4a9971c4361b3f95f302747afe19dbad0"
+  integrity sha512-yR5lWvNz7c85OhVAEAeFhVCc/GV4C30Fjzc/rCP0aCWzc1UUOPUk55dK/qdwTZHBvMZo+eZ2jpk62ndX/xMFlg==
+
+highlight.js@^9.6.0:
   version "9.15.8"
   resolved "https://registry.npm.taobao.org/highlight.js/download/highlight.js-9.15.8.tgz#f344fda123f36f1a65490e932cf90569e4999971"
   integrity sha1-80T9oSPzbxplSQ6TLPkFaeSZmXE=
@@ -6373,6 +6378,11 @@ js-base64@^2.1.9:
   version "2.5.1"
   resolved "https://registry.npm.taobao.org/js-base64/download/js-base64-2.5.1.tgz#1efa39ef2c5f7980bb1784ade4a8af2de3291121"
   integrity sha1-Hvo57yxfeYC7F4St5KivLeMpESE=
+
+js-base64@^2.5.1:
+  version "2.6.4"
+  resolved "https://registry.yarnpkg.com/js-base64/-/js-base64-2.6.4.tgz#f4e686c5de1ea1f867dbcad3d46d969428df98c4"
+  integrity sha512-pZe//GGmwJndub7ZghVHz7vjb2LgC1m8B07Au3eYqeqv9emhESByMXxaEgkUkEqJe87oBbSniGYoQNIBklc7IQ==
 
 js-beautify@^1.6.12, js-beautify@^1.6.14:
   version "1.10.0"
