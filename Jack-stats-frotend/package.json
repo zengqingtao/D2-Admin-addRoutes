@@ -15,7 +15,7 @@
   "dependencies": {
     "@chenfengyuan/vue-qrcode": "^1.0.0",
     "@tinymce/tinymce-vue": "^1.1.2",
-    "axios": "^0.17.1",
+    "axios": "^0.18.1",
     "babel-polyfill": "^6.26.0",
     "better-scroll": "^1.12.1",
     "brace": "^0.11.1",
