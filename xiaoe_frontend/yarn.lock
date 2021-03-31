@@ -675,10 +675,10 @@
     exec-sh "^0.3.2"
     minimist "^1.2.0"
 
-"@d2-admin/filters-dayjs@^1.0.3":
-  version "1.0.3"
-  resolved "https://registry.npm.taobao.org/@d2-admin/filters-dayjs/download/@d2-admin/filters-dayjs-1.0.3.tgz#87647f8d6864d20e12e14277fc96c7746263a341"
-  integrity sha1-h2R/jWhk0g4S4UJ3/JbHdGJjo0E=
+"@d2-admin/filters-dayjs@^1.0.4":
+  version "1.0.4"
+  resolved "https://registry.yarnpkg.com/@d2-admin/filters-dayjs/-/filters-dayjs-1.0.4.tgz#53699a560ddc4557a4a735a6d35e488ec79b58d6"
+  integrity sha512-Su1n3HFk9u9cSugDl4UKyI8tIyv7OXHTj6BI6RdmDzwWTkqiX+mXtXa1MSeihCRR+W1JvnhoqEA/bBKoWdtHsg==
   dependencies:
     core-js "^2.6.5"
     dayjs "^1.8.12"
@@ -6374,6 +6374,11 @@ js-base64@^2.1.9:
   resolved "https://registry.npm.taobao.org/js-base64/download/js-base64-2.5.1.tgz#1efa39ef2c5f7980bb1784ade4a8af2de3291121"
   integrity sha1-Hvo57yxfeYC7F4St5KivLeMpESE=
 
+js-base64@^2.5.1:
+  version "2.6.4"
+  resolved "https://registry.yarnpkg.com/js-base64/-/js-base64-2.6.4.tgz#f4e686c5de1ea1f867dbcad3d46d969428df98c4"
+  integrity sha512-pZe//GGmwJndub7ZghVHz7vjb2LgC1m8B07Au3eYqeqv9emhESByMXxaEgkUkEqJe87oBbSniGYoQNIBklc7IQ==
+
 js-beautify@^1.6.12, js-beautify@^1.6.14:
   version "1.10.0"
   resolved "https://registry.npm.taobao.org/js-beautify/download/js-beautify-1.10.0.tgz?cache=0&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Fjs-beautify%2Fdownload%2Fjs-beautify-1.10.0.tgz#9753a13c858d96828658cd18ae3ca0e5783ea672"
@@ -11044,9 +11049,9 @@ xtend@^4.0.0, xtend@~4.0.1:
   integrity sha1-pcbVMr5lbiPbgg77lDofBJmNY68=
 
 y18n@^3.2.1:
-  version "3.2.1"
-  resolved "https://registry.npm.taobao.org/y18n/download/y18n-3.2.1.tgz#6d15fba884c08679c0d77e88e7759e811e07fa41"
-  integrity sha1-bRX7qITAhnnA136I53WegR4H+kE=
+  version "3.2.2"
+  resolved "https://registry.yarnpkg.com/y18n/-/y18n-3.2.2.tgz#85c901bd6470ce71fc4bb723ad209b70f7f28696"
+  integrity sha512-uGZHXkHnhF0XeeAPgnKfPv1bgKAYyVvmNL1xlKsPYZPaIHxGti2hHqvOCQv71XMsLxu1QjergkqogUnms5D3YQ==
 
 "y18n@^3.2.1 || ^4.0.0", y18n@^4.0.0:
   version "4.0.0"
