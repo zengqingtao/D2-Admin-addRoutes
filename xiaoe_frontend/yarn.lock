@@ -675,10 +675,10 @@
     exec-sh "^0.3.2"
     minimist "^1.2.0"
 
-"@d2-admin/filters-dayjs@^1.0.3":
-  version "1.0.3"
-  resolved "https://registry.npm.taobao.org/@d2-admin/filters-dayjs/download/@d2-admin/filters-dayjs-1.0.3.tgz#87647f8d6864d20e12e14277fc96c7746263a341"
-  integrity sha1-h2R/jWhk0g4S4UJ3/JbHdGJjo0E=
+"@d2-admin/filters-dayjs@^1.0.4":
+  version "1.0.4"
+  resolved "https://registry.yarnpkg.com/@d2-admin/filters-dayjs/-/filters-dayjs-1.0.4.tgz#53699a560ddc4557a4a735a6d35e488ec79b58d6"
+  integrity sha512-Su1n3HFk9u9cSugDl4UKyI8tIyv7OXHTj6BI6RdmDzwWTkqiX+mXtXa1MSeihCRR+W1JvnhoqEA/bBKoWdtHsg==
   dependencies:
     core-js "^2.6.5"
     dayjs "^1.8.12"
@@ -2763,9 +2763,9 @@ codemirror-spell-checker@*:
     typo-js "*"
 
 codemirror@*:
-  version "5.47.0"
-  resolved "https://registry.npm.taobao.org/codemirror/download/codemirror-5.47.0.tgz?cache=0&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Fcodemirror%2Fdownload%2Fcodemirror-5.47.0.tgz#c13a521ae5660d3acc655af252f4955065293789"
-  integrity sha1-wTpSGuVmDTrMZVryUvSVUGUpN4k=
+  version "5.61.0"
+  resolved "https://registry.yarnpkg.com/codemirror/-/codemirror-5.61.0.tgz#318e5b034a707207948b92ffc2862195e8fdb08e"
+  integrity sha512-D3wYH90tYY1BsKlUe0oNj2JAhQ9TepkD51auk3N7q+4uz7A/cgJ5JsWHreT0PqieW1QhOuqxQ2reCXV1YXzecg==
 
 codepage@~1.14.0:
   version "1.14.0"
@@ -6373,6 +6373,11 @@ js-base64@^2.1.9:
   version "2.5.1"
   resolved "https://registry.npm.taobao.org/js-base64/download/js-base64-2.5.1.tgz#1efa39ef2c5f7980bb1784ade4a8af2de3291121"
   integrity sha1-Hvo57yxfeYC7F4St5KivLeMpESE=
+
+js-base64@^2.5.1:
+  version "2.6.4"
+  resolved "https://registry.yarnpkg.com/js-base64/-/js-base64-2.6.4.tgz#f4e686c5de1ea1f867dbcad3d46d969428df98c4"
+  integrity sha512-pZe//GGmwJndub7ZghVHz7vjb2LgC1m8B07Au3eYqeqv9emhESByMXxaEgkUkEqJe87oBbSniGYoQNIBklc7IQ==
 
 js-beautify@^1.6.12, js-beautify@^1.6.14:
   version "1.10.0"
